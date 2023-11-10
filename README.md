@@ -1,16 +1,14 @@
-### Hi there 👋
+### Heya!
 
-<!--
-**jlsnow301/jlsnow301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeremiah Snow, or jlsnow301.
 
-Here are some ideas to get you started:
+I'm a UI maintainer at TG Station, an open source game. I consider myself lucky to have found such a fun open source project to contribute to while spending time indoors during the pandemic. It's continued ever since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My expertise is in TypeScript/JavaScript
+- I love to teach React and TypeScript skills
+- I have authored some of the most downloaded tools for AI image generation
+- I have a bachelor's in computer science / application development
+
+I'm currently open to new opportunities, whether that's expanding my existing skillset or moving to languages I think are promising.
+
+[![jlsnow301's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
