@@ -1,8 +1,6 @@
-### Heya!
+jlsnow301 / Jeremiah
 
-I'm Jeremiah Snow, or jlsnow301 (he/him)
-
-- :star: TypeScript / UI / React
+- :star: Full stack dev / strong front end / web
 - :heart: Love to teach code
 - :rocket: Open source game dev
 - :milky_way: Fascinated with anything space / tech / cyberpunk
