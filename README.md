@@ -1,10 +1,10 @@
-jlsnow301 / Jeremiah
+jlsnow301
 
-- :star: Full stack dev / strong front end / web
-- :heart: Love to teach code
-- :rocket: Open source game dev
-- :milky_way: Fascinated with anything space / tech / cyberpunk
-- :stars: Author of some of the most popular AI tools
+:star: Full stack dev / strong front end / web
+:heart: Love to teach code
+:rocket: Open source game dev
+:milky_way: Fascinated with anything space / tech / cyberpunk
+:stars: Author of some of the most popular AI tools
 
 I'm currently open to new projects and job opportunities - reach out: jlsnow301@pm.me or [LinkedIn](https://www.linkedin.com/in/jlsnow301)
 
