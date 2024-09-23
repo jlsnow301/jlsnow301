@@ -1,10 +1,11 @@
 jlsnow301
 
-- :star: Full stack dev / strong front end / web
-- :heart: Love to teach code
-- :rocket: Open source game dev
+- Full stack dev - fluent Typescript, Go
+- Love to teach code
+- Open source game dev
 - :milky_way: Fascinated with anything space / tech / cyberpunk
-- :stars: Author of some of the most popular AI tools
+- Author of some of the most popular AI tools - 450k downloads :stars:
+- Ideas guy / wrote the post that lead to the LFG system in World of Warcraft (I will not let this down :laughing:)
 
 I'm currently open to new projects and job opportunities - reach out: jlsnow301@pm.me or [LinkedIn](https://www.linkedin.com/in/jlsnow301)
 
