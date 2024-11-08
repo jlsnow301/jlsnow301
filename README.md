@@ -5,7 +5,7 @@ jlsnow301
 - Open source game dev
 - :milky_way: Fascinated with anything space / tech / cyberpunk
 - Author of some of the most popular AI tools - 450k downloads :stars:
-- Ideas guy / wrote the post that lead to the LFG system in World of Warcraft (I will not let this down :laughing:)
+- Coined the LFG system in World of Warcraft (I will not let this down)
 
 I'm currently open to new projects and job opportunities - reach out: jlsnow301@pm.me or [LinkedIn](https://www.linkedin.com/in/jlsnow301)
 
