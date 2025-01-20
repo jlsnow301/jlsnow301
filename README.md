@@ -1,6 +1,6 @@
 jlsnow301
 
-- Full stack dev - fluent Typescript, Go
+- Full stack dev - fluent Typescript, Go, Rust
 - Love to teach code
 - Open source game dev
 - :milky_way: Fascinated with anything space / tech / cyberpunk
